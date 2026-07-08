@@ -30,24 +30,24 @@ Estimated Profit = Revenue − Manufacturing Costs − Shipping Costs
 
 ## Business Questions execute in SQL 
 
-### Supplier Performance
+Supplier Performance
 - Which suppliers contribute the highest revenue?
 - Which suppliers have the shortest lead times?
 - Which suppliers have the lowest defect rates?
 - Which suppliers provide the best balance between lead time, cost, and quality?
 
-### Inventory Management
+Inventory Management
 - Which product categories have the highest inventory levels?
 - Which products face potential shortage risks?
 - How does customer demand compare with current inventory levels?
 
-### Logistics Efficiency
+Logistics Efficiency
 - Which transportation mode delivers products the fastest?
 - Which transportation mode has the highest transportation cost?
 - How do shipping costs vary across shipping carriers?
 - What is the average transportation cost per unit shipped?
 
-### Profitability Analysis
+Profitability Analysis
 - Which product categories generate the highest revenue?
 - Which products generate the highest estimated profit?
 - Which suppliers contribute the highest profit margins?
