@@ -19,16 +19,16 @@ The analysis focuses on four key business areas:
 
 - Estimated Profit was calculated using the following formula:
 
-```text
+
 Estimated Profit = Revenue − Manufacturing Costs − Shipping Costs
-```
+
 
 - Since the dataset does not provide unit-level production costs or complete operational expenses, this metric should be interpreted as an approximate profitability indicator rather than an accounting profit measure.
 
 - The purpose of this metric is to support relative profitability comparisons across products, suppliers, and categories.
-```
 
-## Business Questions execute in SQL 
+
+## Business Questions Executed in SQL
 
 Supplier Performance
 - Which suppliers contribute the highest revenue?
