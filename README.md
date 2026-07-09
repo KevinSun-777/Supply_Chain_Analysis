@@ -65,19 +65,19 @@ Profitability Analysis
 
 ## Executive Dashboard
 
-![Executive Dashboard](KPI Performance.png)
+![Executive Dashboard](KPI_Performance.png)
 
 ## Supplier Performance Dashboard
 
-![Supplier Performance Dashboard](Supplier Performance.png)
+![Supplier Performance Dashboard](Supplier_Performance.png)
 
 ## Inventory Dashboard
 
-![Inventory Dashboard](Inventory Performance.png)
+![Inventory Dashboard](Inventory_Performance.png)
 
 ## Logistics Dashboard
 
-![Logistics Dashboard](Logistics Efficiency.png)
+![Logistics Dashboard](Logistics_Efficiency.png)
 
 ---
 
